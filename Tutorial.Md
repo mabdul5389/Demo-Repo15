@@ -14,4 +14,8 @@ working on Git diff Head
 
 hello
 
+<<<<<<< HEAD
 <MErge conflicts>
+=======
+<Merge conflicts>
+>>>>>>> main
