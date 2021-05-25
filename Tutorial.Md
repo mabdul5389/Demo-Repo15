@@ -14,4 +14,8 @@ working on Git diff Head
 
 hello
 
+<<<<<<< HEAD
 <Merge conflicts>
+=======
+New branch created
+>>>>>>> b529b439217a18c6687747abfc5adc3a0bd7a754
